@@ -2,16 +2,21 @@
 #### Its all about Anitas Kitchen,in terms of what services are offered, some comments from few of our beloved customers and how you can reach us out, 27 April 2021.
 #### By Faith.W.Muturi
 ## Description
-Anitas Kitchen serves the best meals you would ever think of, talk about the drinks, the fastfoods that are served for you to eat anywhere in your space. This is the place to visit if your belly asks for something refreshing, something tasty and satisfying.
+Anitas Kitchen serves the best meals you would ever think of, talk about the drinks, the fast foods that are served for you to eat anywhere in your space. This is the place to visit if your belly asks for something refreshing, something tasty and satisfying.
 ## Setup/Installation Requirements
-* Ensure your windows is updated.
-* Have atleast Github page in your phone or laptop.
+Project is created with:
+* Visual Studio code
+ install
+* $ sudo apt-get update
+* $ sudo apt-get install code
+* $ sudo apt-get install node.js
+*$ sudo apt-get install npm
 ## Known Bugs
-No issues at the moment ,but to be on the safer side just ensure your android is updated.
+There are no bug issues.
 ## Technologies Used
-Basically used HTML and CSS and just played along with the flex-box, floats, images nothing much.
+Basically used HTML and CSS.
 ## Support and contact details
-If any question or comments, reach out through this number 0115375473.
+Email : faith.muturi@student.moringaschool.com
 ### License
 MIT License
 
